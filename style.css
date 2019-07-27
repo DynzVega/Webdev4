@@ -1,0 +1,23 @@
+p {
+    display: none;
+}
+
+button {
+    display:block;
+}
+#box1 {
+    width: 200px;
+    height:200px;
+    background-color: #009;
+    display:none;
+}
+#box2 {
+    width: 200px;
+    height:200px;
+    background-color:red;
+    display:none;
+}
+
+.bg-blue{
+    background-color: rgb(50, 17, 235);
+}

@@ -1,0 +1,44 @@
+
+.box{
+    width:  300px;
+    height: 300px;
+    margin: 10px; 
+    background-image: url("ee.jpg.jpg");
+    display: none;
+    background-size: cover;
+    background-repeat: no-repeat;
+  } 
+
+  
+#box1-style.transform{
+    opacity: 1;
+    transform: scale(1.1);
+    background-image: url("tenor.gif");
+}
+
+#box2-style.transform{
+    opacity: 1;
+    transform: scale(1.1);
+    background-image: url("bb.gif");
+}
+
+#box3-style.transform{
+    opacity: 1;
+    transform: scale(1.1);
+    background-image: url("dd.gif");
+}
+
+#box4-style.transform{
+    opacity: 1;
+    transform: scale(1.1);
+    background-image: url("ff.gif");
+}
+div {
+    display: inline-block;
+}
+
+
+
+/*#box1-style{
+    background-image: url("source.gif");
+    }
